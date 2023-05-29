@@ -1,4 +1,4 @@
-# image-colorization-using-gans
+# Image Colorization using GANs
 Find the code for the project : `image-colorization-using-gans.ipynb` file.
 
 Try out the deployed model here : https://huggingface.co/spaces/PBJ/image_colorization_app
